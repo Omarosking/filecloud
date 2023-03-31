@@ -1,0 +1,7 @@
+{
+    "browser": "Chrome",
+    "implicit_wait": 10,
+    "devURL": "https://cards-sandbox.finally.com/auth/register",
+    "email": "",
+    "password": ""
+}

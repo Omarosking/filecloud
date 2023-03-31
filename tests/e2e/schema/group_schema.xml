@@ -1,0 +1,58 @@
+<groups>
+            <meta>
+                <total>4</total>
+            </meta>
+            <group>
+                <groupid>64235773d218c1484403743a</groupid>
+                <groupname>Accounting</groupname>
+                <emailid></emailid>
+                <createdon>Mar 28, 2023 9:09 PM</createdon>
+                <createdonts>1680037747</createdonts>
+                <autosyncgroup></autosyncgroup>
+                <removemembersonsync>0</removemembersonsync>
+                <disablemembersonsync>0</disablemembersonsync>
+                <everyonegroup>0</everyonegroup>
+                <membercount>1</membercount>
+                <admins></admins>
+            </group>
+            <group>
+                <groupid>642357746febd1b456059b88</groupid>
+                <groupname>Consultants</groupname>
+                <emailid></emailid>
+                <createdon>Mar 28, 2023 9:09 PM</createdon>
+                <createdonts>1680037748</createdonts>
+                <autosyncgroup></autosyncgroup>
+                <removemembersonsync>0</removemembersonsync>
+                <disablemembersonsync>0</disablemembersonsync>
+                <everyonegroup>0</everyonegroup>
+                <membercount>0</membercount>
+                <admins></admins>
+            </group>
+            <group>
+                <groupid>642357737bb014b1940868b7</groupid>
+                <groupname>Engineering</groupname>
+                <emailid></emailid>
+                <createdon>Mar 28, 2023 9:09 PM</createdon>
+                <createdonts>1680037747</createdonts>
+                <autosyncgroup></autosyncgroup>
+                <removemembersonsync>0</removemembersonsync>
+                <disablemembersonsync>0</disablemembersonsync>
+                <everyonegroup>0</everyonegroup>
+                <membercount>0</membercount>
+                <admins></admins>
+            </group>
+            <group>
+                <groupid>64235773299f7fd2d401cfc9</groupid>
+                <groupname>Operations</groupname>
+                <emailid></emailid>
+                <createdon>Mar 28, 2023 9:09 PM</createdon>
+                <createdonts>1680037747</createdonts>
+                <autosyncgroup></autosyncgroup>
+                <removemembersonsync>0</removemembersonsync>
+                <disablemembersonsync>0</disablemembersonsync>
+                <everyonegroup>0</everyonegroup>
+                <membercount>0</membercount>
+                <admins></admins>
+            </group>
+        </groups>
+    """
