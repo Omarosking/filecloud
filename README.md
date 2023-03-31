@@ -1,6 +1,6 @@
-# Finally
+# FileCloud App
 
-Test automation framework for the Finally applications.
+Test automation framework for the FileCloud applications.
 
 **Requirements**
 Install the following dependencies in your local machine
